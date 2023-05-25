@@ -1,5 +1,8 @@
 // Copyright 2023 - Scotty Rich Leatherman - All Rights Reserved //
 
+// made using Java + Processing 4 //
+
+
 /*---------------*\
 | project summary |
 \*---------------*/
